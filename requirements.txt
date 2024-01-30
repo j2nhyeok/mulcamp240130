@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+streamlit
+
+# 새로운 라이브러리 1
+# 새로운 라이브러리 2
