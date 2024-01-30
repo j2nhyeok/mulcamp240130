@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 numpy
 pandas
 matplotlib
@@ -6,15 +5,3 @@ seaborn
 plotly
 streamlit
 
-# 새로운 라이브러리 1
-=======
-numpy
-pandas
-matplotlib
-seaborn
-plotly
-streamlit
-
-# 새로운 라이브러리 1
->>>>>>> f42a5da28ceb3dad3b0666ad59bc6a69587e2ee1
-# 새로운 라이브러리 2
